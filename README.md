@@ -1,4 +1,4 @@
-## It's Daisy 🌼
+## Welcome, It's Daisy 🌼
 
 <div align="left">
   <a href="https://github.com/Jeong-minji/github-readme-stats">
